@@ -1,0 +1,26 @@
+#neo {
+	width:10%;
+}
+
+.titulo_principal{
+	position: absolute;
+	top: 110px;
+	padding-left: 200px;
+}
+
+.principal{
+	background: #e2932c;
+	padding: 30px;
+}
+
+
+nav {
+	position: absolute;
+	top: 110px;
+	right: 10%;
+}
+
+nav li {
+	display: inline;
+	margin: 0 20px 0 20px;
+}
